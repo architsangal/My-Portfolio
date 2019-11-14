@@ -1,2 +1,2 @@
 # My-Portfolio
-Check it out : https://architsangal.github.io
+Check it out : https://architsangal.github.io/My-Portfolio/.
